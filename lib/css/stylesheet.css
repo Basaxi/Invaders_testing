@@ -1,0 +1,7 @@
+.score {
+	font-size:large;
+	color:red;
+	position:absolute;
+	top:10%;
+	right:10%;
+}
