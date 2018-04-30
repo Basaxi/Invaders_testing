@@ -1,7 +1,15 @@
-.score {
+#score {
 	font-size:large;
-	color:red;
+	color:white;
 	position:absolute;
-	top:10%;
-	right:10%;
+	z-index: 10;
+	width: 10%
+	right: 50%;
+	top: 50%;
+	background-color: blue;
+}
+
+canvas {
+	position: absolute;
+	z-index: 0;
 }
